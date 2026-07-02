@@ -1,0 +1,9 @@
+.footer ul.link-list li a:hover {
+    color: #fff !important;
+}
+.colss{
+    margin:auto;
+}
+.link-list li a{
+    font-size: 15px;
+}

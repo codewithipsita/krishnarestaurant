@@ -1,0 +1,116 @@
+.ispl-counter {
+    margin-bottom: 15px;
+    font-style: italic;
+    color: #444;
+}
+
+.ispl-projects-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 25px;
+    align-items: center;
+}
+
+.ispl-projects-filter select {
+    padding: 10px 14px;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    background: #fff;
+    font-size: 15px;
+    min-width: 180px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='%230073aa' height='24' viewBox='0 0 24 24' width='24'><path d='M7 10l5 5 5-5z'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    background-size: 16px;
+}
+
+.ispl-projects-filter select:hover {
+    border-color: #0073aa;
+    box-shadow: 0 0 6px rgba(0,115,170,0.3);
+}
+
+.ispl-projects-grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(1, 1fr); /* mobile */
+}
+
+@media (min-width: 768px) {
+    .ispl-projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .ispl-projects-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.ispl-project-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    transition: 0.3s;
+}
+
+.ispl-project-item:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.ispl-project-item .project-thumb {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.ispl-project-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.project-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.project-title a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.project-title a:hover {
+    text-decoration: underline;
+}
+
+.project-content {
+    flex-grow: 1;
+    margin-bottom: 15px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #333;
+}
+
+.project-readmore {
+    margin-top: auto;
+    display: inline-block;
+    padding: 8px 15px;
+    background: #0073aa;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: 0.3s;
+    align-self: center;
+}
+
+.project-readmore:hover {
+    background: #005d8f;
+}

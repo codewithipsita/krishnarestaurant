@@ -1,0 +1,89 @@
+.ispl-counter {
+    margin-bottom: 15px;
+    font-style: italic;
+    color: #444;
+}
+
+.ispl-impacts-grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(1, 1fr); /* default mobile */
+}
+
+/* Tablet (2 per row) */
+@media (min-width: 768px) {
+    .ispl-impacts-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Desktop (3 per row) */
+@media (min-width: 1024px) {
+    .ispl-impacts-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.ispl-impact-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    transition: 0.3s;
+}
+
+.ispl-impact-item:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.ispl-impact-item .impact-thumb {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.ispl-impact-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.ispl-impact-item .impact-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.ispl-impact-item .impact-title a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.ispl-impact-item .impact-title a:hover {
+    text-decoration: underline;
+}
+
+.ispl-impact-item .impact-content {
+    flex-grow: 1; /* ensures equal height cards */
+    margin-bottom: 15px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #333;
+}
+
+.impact-readmore {
+    margin-top: auto; /* stick to bottom */
+    display: inline-block;
+    padding: 8px 15px;
+    background: #0073aa;
+    color: #fff!important;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: 0.3s;
+    align-self: center;
+}
+
+.impact-readmore:hover {
+    background: #005d8f;
+}
